@@ -1,0 +1,20 @@
+{
+    "short_name": "ahmed nayel",
+    "name": "SE | Ahmed Nayel",
+    "icons": [
+      {
+        "src": "/image/newPwaFirst.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/image/newPWALogo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#000000",
+    "display": "standalone",
+    "theme_color": "#f3f4f7"
+}

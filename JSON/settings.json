@@ -1,0 +1,9 @@
+{
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/bower_components/**": true
+  },
+  "liveServer.settings.root": "/",
+  "liveServer.settings.file": "index.html",
+  "liveServer.settings.port": 5500
+}
